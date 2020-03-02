@@ -2,4 +2,4 @@
 
 Source :- https://github.com/facebook/react-native/issues/21135#issuecomment-479008815
 
-deleting .git/index.lock worked for me.
+### deleting .git/index.lock worked for me.
